@@ -7,7 +7,7 @@ I like getting stuff done. I like pushing boundaries. I like making a difference
 ## interesting
  * :scroll: [CV](https://orens.com)
  * :rocket: [Spaceward Ho!](https://bit.ly/spaceward_ho_a)
- * :file_cabinet: [warchival](https://warchival.com)
+ * :file_cabinet: [warchival](https://warchival.com) - Archive your World of Warcraft™ data.
  * :ocean: [North Atlantic '86](https://na86.navy)
  * :closed_lock_with_key: [Key](https://orens.com/KEY.txt)
  * :cookie: [recipes](https://github.com/sorens/recipes)
