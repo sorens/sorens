@@ -1,14 +1,20 @@
-# steve orens
+# Stephen Orens
 
-![yummy, cookies](https://photos.smugmug.com/photos/i-MtcVGNL/0/b23bab81/XL/i-MtcVGNL.png)
+![🎄🍪](https://photos.smugmug.com/photos/i-MtcVGNL/0/b23bab81/XL/i-MtcVGNL.png)
 
-I like getting stuff done. I like pushing boundaries. I like making a difference. I like making cookies :cookie:.
+### I LIKE...
+* 🔨 getting stuff done...
+* 🚧 pushing boundaries...
+* ✨ making a difference...
+* 📚 audiobooks
+* 🍪 cookies!
+* 🧶 knitting
 
-## interesting
- * :scroll: [CV](https://orens.com)
- * :rocket: [Spaceward Ho!](https://bit.ly/spaceward_ho_a)
- * :file_cabinet: [warchival](https://warchival.com) - Archive your World of Warcraft™ data.
- * :ocean: [North Atlantic '86](https://na86.navy)
- * :closed_lock_with_key: [Key](https://orens.com/KEY.txt)
- * :cookie: [recipes](https://github.com/sorens/recipes)
- * :construction: [projects](https://sorens.github.io)
+👀 I am always searching for that `Dare To Be Great` situation!
+
+* 📜 [CV](https://orens.com)
+* 🔐 [Key](https://orens.com/KEY.txt)
+* 🍪 [recipes](https://github.com/sorens/recipes)
+* 🗄️ [warchival](https://warchival.com) - Archive your World of Warcraft™ data.
+* 🌊 [North Atlantic '86](https://na86.navy)
+* 📼 [The Tape Backups](https://orens.com/tar)
