@@ -13,7 +13,8 @@
 👀 I am always searching for that `Dare To Be Great` situation!
 
 * 📜 [CV](https://orens.com)
-* 🔐 [Key](https://orens.com/KEY.txt)
+* 🔐 [Public Key](https://orens.com/KEY.txt)
+* 💬 [blog](https://aar.orens.com)
 * 🍪 [recipes](https://github.com/sorens/recipes)
 * 🗄️ [warchival](https://warchival.com) - Archive your World of Warcraft™ data.
 * 🌊 [North Atlantic '86](https://na86.navy)
